@@ -32,7 +32,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
-![empd ex04](https://github.com/deepikasrinivasans/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119393935/5f4f839f-7d43-469e-884a-0c7c99a4d6e6)
+![empd experimet04](https://github.com/deepikasrinivasans/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119393935/cc577122-6a47-4d61-b2cf-a7ee91f825ec)
+
 
 ### Name: Deepika S
 ### Register Number: 212222230028
