@@ -95,8 +95,7 @@
    
 <br>   
 
-## RESULT:
-### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+<br>
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
